@@ -1,1 +1,1 @@
-# detecting-parkinson
+# Detecting Parkinson
